@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @roycehart
+- 👀 I’m interested in design, music, programming, electronics, and helping people.
+- 🌱 I’m currently learning more advanced Web design and layout techniques and how to code for Arduino.
+- 💞️ I’m looking to collaborate on developing better coding skills.
+- 📫 How to reach me: webmaster@roycehart.com
